@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/max.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program Files/Cycling &apos;74/Max 5.0/java-doc/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jitter.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program Files/Cycling &apos;74/Max 5.0/java-doc/api-jitter/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/toxiclibscore/library/toxiclibscore.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/_Work_Files_ap68030_HP_ntb/Programming/eclipse workspace/max/lib/toxiclibscore/docs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/controlP5/library/controlP5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/_Work_Files_ap68030_HP_ntb/Programming/eclipse workspace/max/lib/controlP5/reference/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/OBJLoader/library/OBJLoader.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/_Work_Files_ap68030_HP_ntb/Programming/eclipse workspace/max/lib/OBJLoader/reference/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/peasycam/library/peasycam.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/_Work_Files_ap68030_HP_ntb/Programming/eclipse workspace/max/lib/peasycam/reference/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
